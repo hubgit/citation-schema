@@ -1,6 +1,5 @@
 {
   "@context": {
-    "_links": "http://stateless.co/hal_specification.html#links",
     "title": "http://schema.org/name",
     "description": "http://schema.org/description",
     "publisher": "http://schema.org/publisher",
