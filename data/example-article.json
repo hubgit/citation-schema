@@ -1,0 +1,74 @@
+{
+    "@context": "http://git.macropus.org/citation-schema/context.json",
+    "@id": "https://peerj.com/articles/36",
+    "_links": {
+        "alternate": {
+            "application/datacite+xml": {
+                "href": "https://peerj.com/articles/36.datacite"
+            },
+            "application/pdf": {
+                "href": "https://peerj.com/articles/36.pdf"
+            },
+            "application/rdf+xml": {
+                "href": "https://peerj.com/articles/36.rdf"
+            },
+            "application/unixref+xml": {
+                "href": "https://peerj.com/articles/36.unixref"
+            },
+            "application/x-bibtex": {
+                "href": "https://peerj.com/articles/36.bib"
+            },
+            "application/x-research-info-systems": {
+                "href": "https://peerj.com/articles/36.ris"
+            },
+            "application/xml": {
+                "href": "https://peerj.com/articles/36.xml"
+            },
+            "text/html": {
+                "href": "https://peerj.com/articles/36.html"
+            }
+        },
+        "self": {
+            "href": "https://peerj.com/articles/36.json"
+        }
+    },
+    "author": [
+        "Michael P. Taylor",
+        "Mathew J. Wedel"
+    ],
+    "author_email": "dino@miketaylor.org.uk",
+    "author_institution": [
+        "Department of Earth Sciences, University of Bristol, Bristol, England",
+        "College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine, Western University of Health Sciences, Pomona, California, USA"
+    ],
+    "author_institutions": "Department of Earth Sciences, University of Bristol, Bristol, England; College of Osteopathic Medicine of the Pacific and College of Podiatric Medicine, Western University of Health Sciences, Pomona, California, USA",
+    "authors": "Taylor, Michael P.; Wedel, Mathew J.",
+    "date": "2013-02-12",
+    "description": "The necks of the sauropod dinosaurs reached 15 m in length: six times longer than that of the world record giraffe and five times longer than those of all other terrestrial animals. Several anatomical features enabled this extreme elongation, including: absolutely large body size and quadrupedal stance providing a stable platform for a long neck; a small, light head that did not orally process food; cervical vertebrae that were both numerous and individually elongate; an efficient air-sac-based respiratory system; and distinctive cervical architecture. Relevant features of sauropod cervical vertebrae include: pneumatic chambers that enabled the bone to be positioned in a mechanically efficient way within the envelope; and muscular attachments of varying importance to the neural spines, epipophyses and cervical ribs. Other long-necked tetrapods lacked important features of sauropods, preventing the evolution of longer necks: for example, giraffes have relatively small torsos and large, heavy heads, share the usual mammalian constraint of only seven cervical vertebrae, and lack an air-sac system and pneumatic bones. Among non-sauropods, their saurischian relatives the theropod dinosaurs seem to have been best placed to evolve long necks, and indeed their necks probably surpassed those of giraffes. But 150 million years of evolution did not suffice for them to exceed a relatively modest 2.5 m.",
+    "description-html": "<p>The necks of the sauropod dinosaurs reached 15 m in length: six times longer than that of the world record giraffe and five times longer than those of all other terrestrial animals. Several anatomical features enabled this extreme elongation, including: absolutely large body size and quadrupedal stance providing a stable platform for a long neck; a small, light head that did not orally process food; cervical vertebrae that were both numerous and individually elongate; an efficient air-sac-based respiratory system; and distinctive cervical architecture. Relevant features of sauropod cervical vertebrae include: pneumatic chambers that enabled the bone to be positioned in a mechanically efficient way within the envelope; and muscular attachments of varying importance to the neural spines, epipophyses and cervical ribs. Other long-necked tetrapods lacked important features of sauropods, preventing the evolution of longer necks: for example, giraffes have relatively small torsos and large, heavy heads, share the usual mammalian constraint of only seven cervical vertebrae, and lack an air-sac system and pneumatic bones. Among non-sauropods, their saurischian relatives the theropod dinosaurs seem to have been best placed to evolve long necks, and indeed their necks probably surpassed those of giraffes. But 150 million years of evolution did not suffice for them to exceed a relatively modest 2.5 m.</p>",
+    "doi": "10.7717/peerj.36",
+    "firstpage": "e36",
+    "fulltext_html_url": "https://peerj.com/articles/36",
+    "issn": "2167-8359",
+    "journal_abbrev": "PeerJ",
+    "journal_title": "PeerJ",
+    "keywords": [
+        "Sauropod",
+        "Giraffe",
+        "Dinosaur",
+        "Evolution",
+        "Cervical vertebra",
+        "Neck"
+    ],
+    "language": "en",
+    "pdf_url": "https://peerj.com/articles/36.pdf",
+    "publisher": "PeerJ Inc.",
+    "subjects": [
+        "Evolutionary Studies",
+        "Paleontology",
+        "Zoology"
+    ],
+    "title": "Why sauropods had long necks; and why giraffes have short necks",
+    "title-html": "Why sauropods had long necks; and why giraffes have short necks",
+    "volume": "1"
+}
