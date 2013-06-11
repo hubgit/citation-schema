@@ -1,6 +1,7 @@
 {
     "@context": "http://git.macropus.org/citation-schema/context.json",
     "@id": "https://peerj.com/articles/36",
+    "@type": "http://schema.org/ScholarlyArticle",
     "_links": {
         "alternate": {
             "application/datacite+xml": {
