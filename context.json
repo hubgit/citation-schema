@@ -4,14 +4,20 @@
     "description": "http://schema.org/description",
     "publisher": "http://schema.org/publisher",
     "doi": "http://schema.org/?",
+    "pmid": "http://schema.org/?",
+    "arxiv_id": "http://schema.org/?",
     "issn": "http://schema.org/?",
+    "isbn": "http://schema.org/?",
     "volume": "http://schema.org/?",
+    "issue": "http://schema.org/?",
     "firstpage": "http://schema.org/?",
+    "lastpage": "http://schema.org/?",
+    "conference": "http://schema.org/?",
     "author_email": "http://schema.org/?",
     "journal_title": "http://schema.org/?",
     "journal_abbrev": "http://schema.org/?",
-    "title-html": "http://schema.org/?",
-    "description-html": "http://schema.org/?",
+    "technical_report_number": "http://schema.org/?",
+    "technical_report_institution": "http://schema.org/?",    
     "date": {
       "@id": "http://schema.org/datePublished",
       "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
@@ -32,10 +38,6 @@
     "keywords": {
       "@container": "@set",
       "@id": "http://schema.org/keywords"
-    },
-    "subjects": {
-      "@container": "@set",
-      "@id": "http://schema.org/about"
     },
     "pdf_url": {
       "@type": "@id",
